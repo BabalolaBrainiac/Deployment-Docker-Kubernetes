@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservices/01-currency-exchange-microservice-basic/01-currency-exchange-basic.iml" filepath="$PROJECT_DIR$/microservices/01-currency-exchange-microservice-basic/01-currency-exchange-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/02-currency-conversion-microservice-basic/02-currency-conversion-basic.iml" filepath="$PROJECT_DIR$/microservices/02-currency-conversion-microservice-basic/02-currency-conversion-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world-java/hello-world-java.iml" filepath="$PROJECT_DIR$/hello-world/hello-world-java/hello-world-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projects.iml" filepath="$PROJECT_DIR$/.idea/projects.iml" />
+    </modules>
+  </component>
+</project>
