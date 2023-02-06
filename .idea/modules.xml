@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-currency-exchange-microservice-basic/01-currency-exchange-basic.iml" filepath="$PROJECT_DIR$/01-currency-exchange-microservice-basic/01-currency-exchange-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-currency-conversion-microservice-basic/02-currency-conversion-basic.iml" filepath="$PROJECT_DIR$/02-currency-conversion-microservice-basic/02-currency-conversion-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Deployment-Docker-Kubernetes.iml" filepath="$PROJECT_DIR$/.idea/Deployment-Docker-Kubernetes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/hello-world-java/hello-world-java.iml" filepath="$PROJECT_DIR$/projects/hello-world-java/hello-world-java.iml" />
     </modules>
   </component>
 </project>
